@@ -1,0 +1,3 @@
+S:/github/cmake-build-debug/CMakeFiles/github.dir
+S:/github/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/github/cmake-build-debug/CMakeFiles/rebuild_cache.dir
